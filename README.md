@@ -8,7 +8,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Links
 
-- Live Site URL: [Add live site URL here](http://127.0.0.1:5500/indexpro2.html)
+- Live Site URL:(https://shorenatsiklauri.github.io/Four-card/)
 
 ## My process
 
